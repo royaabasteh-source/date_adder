@@ -2,7 +2,7 @@ import os
 from datetime import date
 
 # مسیر پوشه‌ای که فایل‌ها هستند
-folder_path = "test_files"
+folder_path = "D:\xamk\courses\Tasks\date_adder\test_files"
 
 # گرفتن تاریخ امروز
 today = date.today().strftime("%Y-%m-%d")
